@@ -19,4 +19,5 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 
 [alwaysdata.com](https://www.alwaysdata.com/en/) - All your services in one place.
 
+[tejpage.com](https://tejpage.com) - Run your Heroku and Docker apps on baremetal servers in India with `git push`.
 
