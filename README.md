@@ -21,4 +21,4 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 
 [withcoherence.com](https://www.withcoherence.com/) - Coherence automates DevOps for early stage teams laser focused on customer value.
 
-[cockroachlabs.cloud](https://cockroachlabs.cloud/) - A next-generation PostgreSQL, with consumption-based, truly elastic scaling and pricing. Has a free tier and no credit card required for signing up.
+[cockroachlabs.cloud](https://cockroachlabs.cloud/) - CockroachDB Serverless is a next-generation PostgreSQL, with consumption-based, truly elastic scaling and pricing. It has a free tier and no credit card is needed for signing up.
