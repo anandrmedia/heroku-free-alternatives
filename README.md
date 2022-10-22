@@ -19,4 +19,4 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 
 [alwaysdata.com](https://www.alwaysdata.com/en/) - All your services in one place.
 
-
+[netlify.com](https://www.netlify.com/) - Free static site hosting with GitHub integration
