@@ -9,6 +9,8 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 
 [railway.app](https://railway.app/) - Railway is the cloud that takes the complexity out of shipping software.
 
+[nhost.io](https://nhost.io/) - Hosted Postgres and Hasura (GraphQL).
+
 [cyclic.sh](https://www.cyclic.sh/) - Connect your GitHub repo. We will build, deploy and manage the hosting.
 
 [qoddi.com](https://qoddi.com/) - Qoddi is a fully managed App Hosting Platform running on a tier 1 network at 10% of the cost of similar solutions.
