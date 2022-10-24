@@ -15,4 +15,4 @@
 | [netlify.com](https://www.netlify.com/) | GitHub استضافة موقع ثابت مجاني مع تكامل . |
 | [withcoherence.com](https://www.withcoherence.com/) | Coherence automates DevOps for early stage teams laser focused on customer value. |
 | [northflank.com](https://www.northflank.com/) | انشر أي رمز أو وظيفة أو قاعدة بيانات في ثوانٍ. |
-| [cockroachlabs.cloud](https://cockroachlabs.cloud/) |  هو الجيل التالي   من  ، مع قياس وتسعير مرن حقًا قائم على الاستهلاك. يحتوي على فئة مجانية ولا يلزم وجود بطاقة ائتمان للتسجيل PostgreSQL |
+| [cockroachlabs.cloud](https://cockroachlabs.cloud/) |  هو الجيل التالي   من  ، مع قياس وتسعير مرن حقًا قائم على PostgreSQL الاستهلاك. يحتوي على فئة مجانية ولا يلزم وجود بطاقة ائتمان للتسجيل  |
