@@ -5,6 +5,7 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | Website | Description |
 | :---- | :-------------|
 | [render.com](https://render.com/) | One of the top Heroku alternatives with a free plan to get started. |
+| [upstash.com](https://upstash.com/) | Heroku alternative that provides Redis, Kafka & QStash with a generous free tier. |
 | [fly.io](https://fly.io/) | Run your full stack apps (and databases!) all over the world. No ops required. |
 | [railway.app](https://railway.app/) | Railway is the cloud that takes the complexity out of shipping software. |
 | [cyclic.sh](https://www.cyclic.sh/) | Connect your GitHub repo. We will build, deploy and manage the hosting. |
