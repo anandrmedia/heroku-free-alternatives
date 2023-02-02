@@ -16,3 +16,4 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | [withcoherence.com](https://www.withcoherence.com/) | Coherence automates DevOps for early stage teams laser focused on customer value. |
 | [northflank.com](https://www.northflank.com/) | Deploy any code, job, or database in seconds. |
 | [cockroachlabs.cloud](https://cockroachlabs.cloud/) | Database - CockroachDB Serverless is a next-generation PostgreSQL, with consumption-based, truly elastic scaling and pricing. It has a free tier and no credit card is needed for signing up. |
+| [verbidio.com](https://verbidio.com) | A platform for developers to build, deploy and manage web applications easier and faster. Use any framework, from any Git-based repository. Handles both frontend and backend apps. |
