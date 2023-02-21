@@ -6,6 +6,7 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | :---- | :-------------|
 | [render.com](https://render.com/) | One of the top Heroku alternatives with a free plan to get started. |
 | [fly.io](https://fly.io/) | Run your full stack apps (and databases!) all over the world. No ops required. |
+| [flightcontrol.dev](https://flightcontrol.dev?ref=heroku-free-alternatives) | Run your full stack, frontend or static apps on your own AWS account. Take advantage of AWS free tier using Flightcontrol as a SAAS |
 | [railway.app](https://railway.app/) | Railway is the cloud that takes the complexity out of shipping software. |
 | [cyclic.sh](https://www.cyclic.sh/) | Connect your GitHub repo. We will build, deploy and manage the hosting. |
 | [qoddi.com](https://qoddi.com/) | Qoddi is a fully managed App Hosting Platform running on a tier 1 network at 10% of the cost of similar solutions. |
