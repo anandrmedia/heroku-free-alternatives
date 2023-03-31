@@ -2,7 +2,7 @@
 Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an [alternative to Heroku](https://engagespot.co/blog/free-heroku-alternatives). Feel free to submit PRs and improve the list.
 
 ## List of alternatives
-| Website | Description |
+| Website | ~Description~ Marketing blurb |
 | :---- | :-------------|
 | [render.com](https://render.com/) | One of the top Heroku alternatives with a free plan to get started. |
 | [fly.io](https://fly.io/) | Run your full stack apps (and databases!) all over the world. No ops required. |
