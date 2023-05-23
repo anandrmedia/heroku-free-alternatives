@@ -6,6 +6,7 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | :---- | :-------------|
 | [render.com](https://render.com/) | One of the top Heroku alternatives with a free plan to get started. |
 | [fly.io](https://fly.io/) | Run your full stack apps (and databases!) all over the world. No ops required. |
+| [koyeb.com](https://www.koyeb.com) | For deploying full stack apps and APIs globally. Enjoy high-end performance thanks to fully automated deployments to BareMetal servers and our built-in edge network. |
 | [flightcontrol.dev](https://www.flightcontrol.dev?ref=heroku-free-alternatives) | Easily deploy your full stack, frontend or backend apps on your own AWS account. Free for individuals.  |
 | [railway.app](https://railway.app/) | Railway is the cloud that takes the complexity out of shipping software. |
 | [cyclic.sh](https://www.cyclic.sh/) | Connect your GitHub repo. We will build, deploy and manage the hosting. |
