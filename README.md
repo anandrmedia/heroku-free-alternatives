@@ -6,6 +6,7 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | :---- | :-------------|
 | [adaptable.io](https://adaptable.io/) | Just connect your GitHub repository and let Adaptable handle the rest. |
 | [alwaysdata.com](https://www.alwaysdata.com/en/) | All your services in one place. |
+| [argonaut.dev](https://www.argonaut.dev/) | Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments. |
 | [cockroachlabs.cloud](https://cockroachlabs.cloud/) | Database - CockroachDB Serverless is a next-generation PostgreSQL, with consumption-based, truly elastic scaling and pricing. It has a free tier and no credit card is needed for signing up. |
 | [cyclic.sh](https://www.cyclic.sh/) | Connect your GitHub repo. We will build, deploy and manage the hosting. |
 | [deta.sh](https://www.deta.sh/) | Build & deploy your ideas on the universe's most developer friendly cloud platform. |
