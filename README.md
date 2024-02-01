@@ -11,7 +11,6 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | [cyclic.sh](https://www.cyclic.sh/) | Connect your GitHub repo. We will build, deploy and manage the hosting. |
 | [deta.sh](https://www.deta.sh/) | Build & deploy your ideas on the universe's most developer friendly cloud platform. |
 | [domcloud.co](https://domcloud.co/) | It's like those modern hosting platforms, but for the old school. |
-| [flightcontrol.dev](https://www.flightcontrol.dev?ref=heroku-free-alternatives) | Easily deploy your full stack, frontend or backend apps on your own AWS account. Free for individuals.  |
 | [fly.io](https://fly.io/) | Run your full stack apps (and databases!) all over the world. No ops required. |
 | [koyeb.com](https://www.koyeb.com) | For deploying full stack apps and APIs globally. Enjoy high-end performance thanks to fully automated deployments to BareMetal servers and our built-in edge network. |
 | [netlify.com](https://www.netlify.com/) | Free static site hosting with GitHub integration |
