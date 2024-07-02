@@ -19,4 +19,5 @@ Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be availab
 | [northflank.com](https://www.northflank.com/) | Deploy any code, job, or database in seconds. |
 | [qoddi.com](https://qoddi.com/) | Qoddi is a fully managed App Hosting Platform running on a tier 1 network at 10% of the cost of similar solutions. |
 | [render.com](https://render.com/) | One of the top Heroku alternatives with a free plan to get started. |
+| [surge.sh](https://surge.sh/) | Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line. |
 | [withcoherence.com](https://www.withcoherence.com/) | Coherence automates DevOps for early stage teams laser focused on customer value. |
